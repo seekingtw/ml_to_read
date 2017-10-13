@@ -12,3 +12,6 @@ machine learning related reading
 ## deep
 * [为什么ResNet和DenseNet可以这么深？一文详解残差块为何有助于解决梯度弥散问题。](https://www.leiphone.com/news/201708/QhCDpffhix9boiFL.html)
 * [变形卷积核、可分离卷积？卷积神经网络中十大拍案叫绝的操作。](https://www.leiphone.com/news/201708/0rQBSwPO62IBhRxV.html)
+
+## resource
+* [請收下這份獨家合集 | 深度學習相關影片](http://bangqu.com/b8C67q.html)
